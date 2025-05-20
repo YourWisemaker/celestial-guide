@@ -22,7 +22,7 @@ An interactive sky map application that allows you to explore the cosmos and dis
 
 ### Environment Variables
 
-Create a `.env.local` file in the root directory with the following variables:
+Create a `.env` file in the root directory with the following variables:
 
 ```
 OPENROUTER_API_KEY=your_openrouter_api_key_here
